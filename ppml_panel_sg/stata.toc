@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ppml_panel_sg "Structural gravity" models via Poisson PML Use ppml_panel_sg With STATA 18
