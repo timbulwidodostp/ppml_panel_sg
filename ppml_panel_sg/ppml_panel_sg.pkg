@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'ppml_panel_sg': "Structural gravity" models via Poisson PML Use ppml_panel_sg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f hdfe.ado
+f hdfe.sthlp
+f ppml_panel_sg.ado
+f ppml_panel_sg.sthlp
